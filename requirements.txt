@@ -1,0 +1,20 @@
+# Core LLM SDK (Official Google Gemini SDK)
+google-genai>=2.3.0
+
+# Local Embeddings (Zero API cost, deterministic)
+sentence-transformers>=2.2.0
+
+# Data Validation & Schema
+pydantic>=2.0.0
+
+# Knowledge Base Parsing
+pyyaml>=6.0.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Testing & Deterministic Evaluations
+pytest>=7.0.0
+
+# CLI Formatting & Observability
+rich>=13.0.0
